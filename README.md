@@ -30,3 +30,7 @@ Configured professional business email for a custom domain with full DNS authent
 - Cheaper TLDs like .online have lower trust scores with some spam filters .com recommended for production
 
 ## screenshots
+![MX Records](screenshots/Screenshot 2026-05-20 021143.png)
+![SPF Record](screenshots/Screenshot 2026-05-20 022604.png)
+![DKIM Record](screenshots/Screenshot 2026-05-20 023119.png)
+![DMARC Record](screenshots/Screenshot 2026-05-20 024725.png)
