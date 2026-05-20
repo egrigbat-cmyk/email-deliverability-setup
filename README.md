@@ -4,13 +4,13 @@
 ## Project Overview
 Configured professional business email for a custom domain with full DNS authentication to ensure inbox delivery and protect against email spoofing.
 
-## What Was Configured
+## What i Configured
 - *MX Records* - 3 Zoho Mail servers with priority failover (priority 10, 20, 50)
 - *SPF Record* - authorized Zoho Mail servers to send on behalf of the domain
 - *DKIM* - digital signature added to verify email authenticity in transit
 - *DMARC* - monitoring policy configured to track and report authentication failures
 
-## Tools Used
+## Tools i Used
 - Zoho Mail - business email provider
 - Namecheap - domain registrar and DNS management
 - MXToolbox - DNS record verification and testing
