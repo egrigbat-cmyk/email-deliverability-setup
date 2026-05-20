@@ -28,3 +28,5 @@ Configured professional business email for a custom domain with full DNS authent
 - DKIM uses public/private key cryptography to verify email content integrity
 - DMARC ties SPF and DKIM together and defines policy for failed authentication
 - Cheaper TLDs like .online have lower trust scores with some spam filters .com recommended for production
+
+## screenshots
