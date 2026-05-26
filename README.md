@@ -32,7 +32,6 @@ Configured professional business email for a custom domain with full DNS authent
 ## Screenshots
 https://raw.githubusercontent.com/egrigbat-cmyk/email-deliverability-setup/refs/heads/main/dkim-lookup.png
 https://raw.githubusercontent.com/egrigbat-cmyk/email-deliverability-setup/refs/heads/main/dmarc-lookup.png
-https://raw.githubusercontent.com/egrigbat-cmyk/email-deliverability-setup/refs/heads/main/mail-tester-score.png
 https://raw.githubusercontent.com/egrigbat-cmyk/email-deliverability-setup/refs/heads/main/mx-lookup.png
 https://raw.githubusercontent.com/egrigbat-cmyk/email-deliverability-setup/refs/heads/main/spf-lookup.png
 https://raw.githubusercontent.com/egrigbat-cmyk/email-deliverability-setup/refs/heads/main/IMG_5205.png
